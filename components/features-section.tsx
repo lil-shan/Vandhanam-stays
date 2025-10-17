@@ -17,8 +17,7 @@ export function FeaturesSection() {
       titleEmphasis: "swimming pool",
       description:
         "Relax in our pristine infinity pool surrounded by lush gardens, with breathtaking views of the Vagamon hills.",
-      image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG_20251007_180827206-Iayq44x0bvguCg9dhJmjkVRR7cGSSx.jpg",
+    image: "/IMG_20251007_180827206~2.jpg",
       alt: "Swimming pool with mountain backdrop",
     },
     {
