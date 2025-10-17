@@ -100,7 +100,7 @@ export function VandhanamHero() {
 
     const imageWidth = window.innerWidth < 768 ? 160 + 24 : 200 + 32 // image width + gap
     const totalWidth = imageWidth * galleryImages.length // width of one complete set
-    const scrollSpeed = window.innerWidth < 768 ? 0.1 : 0.3 // pixels per frame
+    const scrollSpeed = window.innerWidth < 768 ? 0.3 : 0.3 // pixels per frame
 
     let lastTime = performance.now()
     const targetFPS = 60
