@@ -11,7 +11,7 @@ export function ExperienceSection() {
             the serenity of nature—all in one unforgettable stay.
           </p>
           <a
-            href="https://wa.me/919547193758"
+            href="https://wa.me/918547193758"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-[#d4c5b0] text-[#1a2820] px-8 py-4 text-sm md:text-base font-semibold tracking-wider uppercase hover:bg-[#c4b5a0] transition-colors duration-300 rounded-lg"
