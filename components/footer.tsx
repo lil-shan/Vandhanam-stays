@@ -28,7 +28,7 @@ export function Footer() {
                 Contact
               </h3>
               <a
-                href="tel:+918547193758"
+                href="tel:+919495392897"
                 className="text-[#1a2e1a]/80 text-sm md:text-base uppercase tracking-wide hover:text-[#1a2e1a] transition-colors"
               >
                 +91 85471 93758
