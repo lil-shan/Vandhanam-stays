@@ -7,7 +7,7 @@ export function ReviewSection() {
 
   const handleSendReview = () => {
     if (review.trim()) {
-      const whatsappNumber = "918547193758"
+      const whatsappNumber = "919495392897"
       const encodedMessage = encodeURIComponent(`Review for Vandhanam Stays:\n\n${review}`)
       const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodedMessage}`
       window.open(whatsappUrl, "_blank")
