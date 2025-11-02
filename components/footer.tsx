@@ -31,7 +31,7 @@ export function Footer() {
                 href="tel:+919495392897"
                 className="text-[#1a2e1a]/80 text-sm md:text-base uppercase tracking-wide hover:text-[#1a2e1a] transition-colors"
               >
-                +91 85471 93758
+                +91 94953 92897
               </a>
               <a
                 href="mailto:vandhanamstay@gmail.com"
