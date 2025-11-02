@@ -89,7 +89,7 @@ export function PricingSection() {
                 </div>
 
                 <a
-                  href={`https://wa.me/918547193758?text=${encodeURIComponent(tier.whatsappMessage)}`}
+                  href={`https://wa.me/919495392897?text=${encodeURIComponent(tier.whatsappMessage)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full py-4 rounded-lg font-semibold text-sm md:text-base tracking-wide transition-all bg-[#1a2820] text-[#E8E4DC] hover:bg-[#2a3a2a] border border-[#E8E4DC]/20 text-center"
